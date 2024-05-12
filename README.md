@@ -110,7 +110,7 @@ Two caveat about bark are although it supports voice cloning, it does not provid
 
 ## Other Useful Tools
 
-- [Adobe podcast]:(https://podcast.adobe.com/enhance) Clean up the generated voices and make them even more realistic.
+- [Adobe podcast](https://podcast.adobe.com/enhance): Clean up the generated voices and make them even more realistic.
 - [Mp3Cut](https://mp3cut.net): Online MP3 Cutter to cut out a piece of music.
 - [Convertio](https://convertio.co): Easy tool to convert files online.
 
